@@ -31,14 +31,13 @@ After completing the outline, I added a circular hole with a diameter of 4 mm. T
 
 ## Reference Image
 
-![Reference image](reference_image.png)
+<img src="reference_image.png" width="300">
 
 ## Final Sketch
 
 The following image shows the completed sketch before extrusion:
 
-![Spider sketch](sketch.png)
-
+<img src="sketch.png" width="450">
 ## Final Design
 
 The GIF below shows the finished model from different angles:
