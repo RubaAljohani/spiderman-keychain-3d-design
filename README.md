@@ -59,9 +59,6 @@ The final design was exported in STL format.
 
 [Download the STL file](spider_keychain.stl)
 
-## Onshape Design
-
-[Open the design in Onshape](PASTE-YOUR-ONSHAPE-LINK-HERE)
 
 ## Result
 
