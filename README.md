@@ -1,5 +1,4 @@
 # spiderman-keychain-3d-design
-# Spider Keychain Design
 
 ## Introduction
 
