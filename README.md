@@ -38,6 +38,7 @@ After completing the outline, I added a circular hole with a diameter of 4 mm. T
 The following image shows the completed sketch before extrusion:
 
 <img src="sketch.png" width="450">
+
 ## Final Design
 
 The GIF below shows the finished model from different angles:
