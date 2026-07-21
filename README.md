@@ -50,6 +50,9 @@ The following images show the thickness and side appearance of the model:
 
 ![Second side view](side_view%20%282%29.png)
 
+## Onshape design link
+![press here for the link](https://cad.onshape.com/documents/ad95bdd1d24713efca2368cc/w/a7e079f04b57cf2f2505121e/e/1b118aaf9da5a1ccc4d74753?renderMode=0&uiState=6a5f152988d8f2adc76412de)
+
 ## STL File
 
 The final design was exported in STL format.
