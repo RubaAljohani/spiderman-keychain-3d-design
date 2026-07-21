@@ -2,29 +2,27 @@
 
 ## Introduction
 
-In this task, I created a spider-shaped keychain using Onshape. I used an image from the internet as a reference, traced the shape, added a hole for the keyring, and converted the sketch into a 3D model.
+In this task, I created a spiderman logo shaped keychain using Onshape. I used an image from the internet as a reference, estimated the measurments, drew it, added a hole for the keyring, and converted the sketch into a 3D model (extruded).
 
 ## Task Requirements
 
 The design includes:
 
 - A spider shape based on a reference image
-- A circular keyring hole with a diameter of 4 mm
-- An extrusion thickness of 2 mm
+- A circular keyring hole with a size of 4 mm
+- An extrusion of 2 mm
 - An STL file for the final model
 
 ## Tools Used
 
-- Onshape
+- Onshape:
 - Sketch tools
 - Mirror tool
 - Extrude tool
 
 ## Design Process
 
-First, I inserted the spider image into an Onshape sketch and traced one side of the shape.
-
-I then used the Mirror tool to create the other side and keep the design symmetrical.
+First, I drew the left side of the logo to match the refrence photo then used the Mirror tool to create the other side and keep the design symmetrical.
 
 After completing the outline, I added a circular hole with a diameter of 4 mm. The final sketch was extruded by 2 mm to create the 3D model.
 
@@ -34,13 +32,13 @@ After completing the outline, I added a circular hole with a diameter of 4 mm. T
 
 ## Final Sketch
 
-The following image shows the completed sketch before extrusion:
+the completed sketch before extrusion:
 
 <img src="sketch.png" width="450">
 
 ## Final Design
 
-The GIF below shows the finished model from different angles:
+the finished model from different angles:
 
 ![Final spider keychain](Recording%202026-07-21%20000451.gif)
 
